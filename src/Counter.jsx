@@ -10,7 +10,7 @@ export const Counter = () => {
     }
     const dcounter=()=>{
         setcount(count-1)
-    }0
+    }
     const double=()=>{
         setcount(count*2)
     }
